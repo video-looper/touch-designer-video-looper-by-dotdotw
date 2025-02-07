@@ -4,7 +4,7 @@ Touch Designer Project for capturing and looping video
 
 What does it do?
 
-This is a video live looper which functions in much the same way as a audio loop pedal but for video.
+This is a video live looper which functions in much the same way as an audio loop pedal but for video.
 Built in Touch Designer, this project can be used to play clips out of the computer while at the same time capturing back into the computer.
 This process can be repeated to oversample the video.
 
