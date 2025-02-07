@@ -14,7 +14,7 @@ Why did I build it?
 I'm a video glitch artist that experiements with video circuits using old video equipment.
 I started this project because I wanted a way to capture the manipulations I was introducing to the video signal using the old video equipment and then manipulate that captured video again, and again...
 I'm also into live looping audio as a beatboxer, so I took the existing concepts from audio world as the guide to build my video looper.
-I originally tried to achieve the technique using existing technologies. I started with Resolume (famous VJ software) and then OBS (open source live streaming software) but I couldn't get instantanious results I was us used to with audio loop pedals.
+I originally tried to achieve the technique using existing technologies. I started with Resolume (famous VJ software) and then OBS (open source live streaming software) but I couldn't get instantanious results I was used to with audio loop pedals.
 After considering different approaches I decided to use Touch Designer.
 
 
@@ -26,10 +26,10 @@ There are 2 cache's, I can flip which one is being updated with incoming video w
 I then have a audio visual loop that I can upload to socials etc.
 
 
-..and Next
+..and Next:
 
 Currently it's based around creating visuals for a single timed audio loop, I will be expanding the patch to be used for a whole song structure by using more caches and triggering them in sequence.
-I'll be introducing video effects too. Simple stuff that can be further manipulated with my video kit.
+I'll be introducing video effects too - simple stuff that can be further manipulated with my video kit.
 
 
 Any Bugs:
@@ -41,6 +41,7 @@ When I have the time I'll dig deeper to find solutions.
 Installation:
 
 Install Touch Designer
+
 More steps coming soon
 
 
