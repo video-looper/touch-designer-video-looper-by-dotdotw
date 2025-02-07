@@ -23,7 +23,7 @@ Now:
 I've very much built this for my specific needs. I mentioned my beatboxing...
 So I take my beatboxing loops, load them into this patch, which sets the duration that video will be captured into cache.
 There are 2 cache's, I can flip which one is being updated with incoming video while the other one plays out, I oversample this to my hearts content flipping the cache over until I commit and record from the cache the to a file that lands on my desktop.
-I then have a audio visual loop that I can upload to socials etc.
+I then have an audio visual loop that I can upload to socials etc.
 
 
 ..and Next:
